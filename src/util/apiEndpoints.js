@@ -1,6 +1,8 @@
 export const BASE_URL = "https://money-manager-xone.onrender.com/api/v1.0/";
 const CLOUDINARY_CLOUD_NAME = "dhadf5h7j";
 
+
+
 export const API_ENDPOINTS = {
     LOGIN: "/login",
     REGISTER: "/register",
