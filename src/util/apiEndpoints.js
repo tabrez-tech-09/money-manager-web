@@ -1,5 +1,5 @@
 export const BASE_URL = "https://money-manager-xone.onrender.com/api/v1.0/";
-const CLOUDINARY_CLOUD_NAME = "dhadf5h7j";
+const CLOUDINARY_CLOUD_NAME = "dk2gamf6r";
 
 
 
