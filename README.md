@@ -1,8 +1,98 @@
-# React + Vite
+# 💸 Money Manager – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **Money Management Web Application** built using **React + Vite**, integrated with a secure **Spring Boot REST API**.  
+This frontend provides a smooth UI for tracking income, expenses, and categories in real time.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** https://money-manager-web-three.vercel.app/home
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## ✨ Features
+
+- 🔐 Secure Login & Signup (JWT based)
+- 📊 Dashboard with Income & Expense Overview
+- 💵 Add / View / Delete Incomes
+- 💸 Add / View / Delete Expenses
+- 🗂 Category-wise Filtering (Income & Expense)
+- 📥 Download Excel Reports
+- 📧 Email Excel Report Feature
+- 📱 Fully Responsive UI
+- ⚡ Fast build using Vite
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- Axios
+- CSS / Tailwind CSS
+- REST API Integration
+
+---
+
+## 📁 Project Structure
+
+src/
+├── components # Reusable UI components
+├── pages # Application pages
+├── services # API service calls
+├── context # Global state management
+├── utils # Helper functions
+└── assets # Images & static files
+
+yaml
+Copy code
+
+---
+
+## 🔗 Backend API
+
+https://money-manager-xone.onrender.com/api/v1.0
+
+yaml
+Copy code
+
+---
+
+## ▶️ Run Locally
+
+```bash
+npm install
+npm run dev
+The application will start at:
+
+arduino
+Copy code
+http://localhost:5173
+⚙️ Environment Variables
+Create a .env file in the root directory:
+
+env
+Copy code
+VITE_API_BASE_URL=https://money-manager-xone.onrender.com/api/v1.0
+📸 Screenshots
+Add screenshots of Login, Dashboard, Add Income, Add Expense pages here.
+
+🎯 Use Cases
+Personal finance tracking
+
+Full-stack project demonstration
+
+Scalable UI for finance-based SaaS apps
+
+🚀 Why This Project?
+Real-world finance use case
+
+Clean UI with real backend integration
+
+Production-level frontend architecture
+
+Strong React + API handling experience
+
+👨‍💻 Author
+Tabrez
+Java Full Stack Developer
+
+🔗 GitHub: https://github.com/tabrez-tech-09
