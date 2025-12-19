@@ -1,3 +1,5 @@
+<img width="1872" height="908" alt="image" src="https://github.com/user-attachments/assets/8f24261f-9396-40df-aa2f-bdda4762aa88" />
+
 # 💸 Money Manager – Frontend
 
 A modern, responsive **Money Management Web Application** built using **React + Vite**, integrated with a secure **Spring Boot REST API**.  
@@ -51,9 +53,6 @@ Copy code
 
 https://money-manager-xone.onrender.com/api/v1.0
 
-yaml
-Copy code
-
 ---
 
 ## ▶️ Run Locally
@@ -72,8 +71,6 @@ Create a .env file in the root directory:
 env
 Copy code
 VITE_API_BASE_URL=https://money-manager-xone.onrender.com/api/v1.0
-📸 Screenshots
-Add screenshots of Login, Dashboard, Add Income, Add Expense pages here.
 
 🎯 Use Cases
 Personal finance tracking
