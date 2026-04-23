@@ -2,7 +2,7 @@ import Header from "../components/Header";
 
 const About = () => {
   return (
-    <div className="bg-[#f5f7fb] text-gray-800 font-sans">
+    <div className="bg-[#f5f7fb] text-gray-800 font-sans pt-20">
       <Header />
 
       {/* Hero Section */}

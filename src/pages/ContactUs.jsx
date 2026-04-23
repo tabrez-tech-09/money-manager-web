@@ -39,7 +39,7 @@ const Contact = () => {
     <>
       <Header />
 
-      <div className="min-h-screen bg-[#f5f7fb] py-16 px-4 text-center">
+      <div className="min-h-screen bg-[#f5f7fb] py-16 px-4 text-center pt-20">
         
         <h1 className="text-4xl font-bold text-gray-900">
           Contact Us
