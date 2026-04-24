@@ -27,7 +27,7 @@ const About = () => {
             <div className="text-4xl mb-3">📊</div>
             <h2 className="text-xl font-semibold mb-2">Track Expenses</h2>
             <p className="text-gray-500">
-              Easily record and monitor your daily transactions in one place.
+              Easily record and monitor your daily transactions in one place. Detail view of all your expenses and income with just a few clicks.
             </p>
           </div>
 
