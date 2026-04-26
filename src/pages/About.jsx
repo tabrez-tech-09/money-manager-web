@@ -33,7 +33,7 @@ const About = () => {
 
           <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl transition transform hover:-translate-y-2">
             <div className="text-4xl mb-3">📈</div>
-            <h2 className="text-xl font-semibold mb-2">Analytics</h2>
+            <h2 className="text-xl font-semibold mb-2">Analytics show</h2>
             <p className="text-gray-500">
               Visual charts help you understand your spending habits.
             </p>
