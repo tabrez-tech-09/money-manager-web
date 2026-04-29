@@ -87,7 +87,7 @@ const About = () => {
           Start Managing Your Finances Today 🚀
         </h2>
         <p className="mb-6 text-lg opacity-90">
-          Take control of your money with easy way.
+          Take control of your money with easy
         </p>
 
         <a
