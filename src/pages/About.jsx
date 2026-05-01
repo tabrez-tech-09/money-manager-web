@@ -52,7 +52,7 @@ const About = () => {
 
       {/* Developer Section */}
       <section className="py-20 px-6 bg-white text-center">
-        <h2 className="text-3xl font-bold mb-4">About Developer LIfe</h2>
+        <h2 className="text-3xl font-bold mb-4">About Developer</h2>
         <p className="max-w-2xl mx-auto text-gray-600 text-lg">
           This project is developed by{" "}
           <span className="font-semibold text-purple-600">
