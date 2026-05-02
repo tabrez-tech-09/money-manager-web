@@ -29,7 +29,7 @@ const Category = () => {
                 setCategoryData(response.data);
             }
         }catch(error) {
-            console.error('Something went wrong. Please try again.', error);
+            console.error('Something went wrong.  Please try again.', error);
             toast.error(error.message);
         } finally {
             setLoading(false);
@@ -44,7 +44,7 @@ const Category = () => {
         const {name, type, icon} = category;
 
         if (!name.trim()) {
-            toast.error("Category Name is required");
+            toast.error("Category Name is required for adding a new category");
             return;
         }
 

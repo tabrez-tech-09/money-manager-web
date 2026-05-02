@@ -8,10 +8,10 @@ const About = () => {
       {/* Hero Section */}
       <section className="text-center py-20 px-6 bg-gradient-to-r from-purple-600 to-pink-500 text-white">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
-          About Money Manager
+          About Money Manager 
         </h1>
         <p className="max-w-2xl mx-auto text-lg opacity-90">
-          Smart way to manage your income, expenses and take full control of your finances.
+          Smart way to manage your income, expenses and take full control of your finances. 
         </p>
       </section>
 
