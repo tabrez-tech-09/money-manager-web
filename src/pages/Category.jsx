@@ -48,7 +48,7 @@ const Category = () => {
             return;
         }
 
-        //check if the category already exists
+        //check if the category already exists or no exits
         const isDuplicate = categoryData.some((category) => {
             return category.name.toLowerCase() === name.trim().toLowerCase();
         })
