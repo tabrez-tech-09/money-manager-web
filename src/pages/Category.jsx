@@ -54,7 +54,7 @@ const Category = () => {
         })
 
         if (isDuplicate) {
-            toast.error("Category Name already exists");
+            toast.error("Category Name already exists or no changes made");
             return;
         }
 
