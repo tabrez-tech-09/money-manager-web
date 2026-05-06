@@ -67,7 +67,7 @@ const Category = () => {
             }
         }catch (error) {
             console.error('Error adding category:', error);
-            toast.error(error.response?.data?.message || "Failed to add category.");
+            toast.error(error.response?.data?.message || "Failed to add category. Try Again");
         }
     }
 
