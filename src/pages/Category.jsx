@@ -29,7 +29,7 @@ const Category = () => {
                 setCategoryData(response.data);
             }
         }catch(error) {
-            console.error('Something went wrong.try Again', error);
+            console.error('Something went wrong.try Again please', error);
             toast.error(error.message);
         } finally {
             setLoading(false);
